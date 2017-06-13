@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Nikhil here. Interested in Computer vision. Loves programming with OpenCV-python.
